@@ -1,1 +1,3 @@
-v0.1.0
+v1.0.0
+
+>Previsão da versão v1.0.0 pela Issue #1
